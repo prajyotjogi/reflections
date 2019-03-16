@@ -18,3 +18,6 @@ How do the diagrams help you visualize the branch structure?
 
 	It helps a lot. Sometimes if we are trying a change then we can create branch and if there are more branches, and we want to commit to certain branch then diagram helps a lot
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	when two branches are merged then one of the branche's label is deleted and the one of the branches label is retained and a new commit is created from we can go to both the branches.
