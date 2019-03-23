@@ -21,3 +21,10 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 	when two branches are merged then one of the branche's label is deleted and the one of the branches label is retained and a new commit is created from we can go to both the branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	pros of automatic merging - our task is reduced
+	cons -------""----------  - unwanted changes may be merged, conflicts may occur
+	pros of manual merging  - we can merge what we want
+	cons -------""--------  - we have to take of conflicts
