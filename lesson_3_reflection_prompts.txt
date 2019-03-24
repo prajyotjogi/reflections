@@ -6,3 +6,7 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	because after every change git will automativcally update. It is very slow, inefficient process.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	forks are like clones on the github, but unlike clones if we change something then it will not be seen in the original repository, while in clone it happens.
+
